@@ -1,0 +1,54 @@
+{
+    "philosophy": {
+        "title": "Teaching Philosophy",
+        "content": [
+            "I seek to make learning relevant, meaningful, and collaborative in nature.",
+            "I aim to foster a culture that both challenges students and equips them with the support they need to meet those challenges."
+        ]
+    },
+
+    "innovations": {
+        "title": "Pedagogical Strategies",
+        "content": [
+            {
+                "title": "Grading Interviews",
+                "content": [
+                    "Students participate in two 30 minute oral interviews throughout the semester.",
+                    "These interviews are really a structured conversation that allows to students to demonstrate their knowledge.",
+                    "They sound scary, but are actually very beneficial for both students and instructors."
+                ]
+            },
+            {
+                "title": "Collaborative Learning",
+                "content": [
+                    "Collaboration is critical for computer sciene.",
+                    "Learning should be a fun, interactive experience where you work alongside your instructor and peers."
+                ]
+            }
+        ]
+    },
+    "classes": {
+        "title": "Classes",
+        "content": [
+            {
+                "title": "CSCI358 Discrete Mathematics",
+                "preview": "Logical Reasoning for CS Majors",
+                "content": [
+                    "Show that programs are actually correct",
+                    "Structure your argument so you always win.",
+                    "Add a link to the current syllabus"
+                ]
+            },
+            {
+                "title": "CSCI406 Algorithms",
+                "preview": "From Problem Models to Programmatic Solutions",
+                "content": [
+                    "What does it mean for a problem to be hard?",
+                    "Everything can be modeled as a graph.",
+                    "Add a link to the current syllabus"
+                ]
+            }
+        ]
+    }
+
+}

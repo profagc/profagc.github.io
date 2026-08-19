@@ -1,0 +1,25 @@
+{
+    "interests": {
+        "title": "Research Interests",
+        "content": [
+            "My research focuses on computer science education at the K-12 level.",
+            "I am interested in how to incorporate critical, place-based pedagogies into computer science through the creation of personally relevant artifacts that can affect change."
+        ]
+    },
+    "researchGroups": {
+        "title": "Research Groups",
+        "content": [
+            {
+                "title": "CYI: Creating Young Innovators",
+                "description": [
+                    "Creating Young Innovators is a research practice partnership between Colorado School of Mines, University of Colorado Boulder, and Aurora Public Schools.",
+                    "The goal is to co-design new computer science units in which students use the micro:bit to investigate their own environment, aligned with the CSTA K–12 Computer Science Standards."
+                ],
+                "startDate": "August 2024",
+                "endDate": "Present",
+                "contact": "alexandra.chakarov@mines.edu"
+            }
+
+        ]
+    }
+}
